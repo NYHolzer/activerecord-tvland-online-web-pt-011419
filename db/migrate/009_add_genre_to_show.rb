@@ -1,1 +1,3 @@
-class AddGenreToShow < ActiveRecord::Migration[4.2]
+class AddGenreToShow < ActiveRecord::Migration[4.2] 
+  
+end 
