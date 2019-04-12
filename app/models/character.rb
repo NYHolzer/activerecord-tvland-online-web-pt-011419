@@ -3,4 +3,5 @@ class Character < ActiveRecord::Base
   belongs_to :show
   
   attr_accessor catchphrase
+  
 end
